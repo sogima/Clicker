@@ -1,0 +1,18 @@
+I used this (unuseful) application to cheat on flash games like "ClickChallenge" :-)
+However it can be adapted to interact in other ways with the computer, like simulate
+a user that press keyboard buttons or move the mouse and click in a particular position.
+To allow this I used the simple Java Robot class.
+In this case it repeatedly clicks in the specified position.
+There are two ways to use the clicker:
+- the first one is specifing the amount of clicks to perform;
+- the other way allow to click continuosly for a specified amount of seconds.
+Just one of the two can ben executed at time.
+When a button is clicked instead of starting to click, there is a countdown of 5 seconds that
+allow the user to position the mouse in the point where to click repeatedly.
+
+In this repository there is the package clicker that contains all classes needed:
+- clicker.java: the class that uses the jav Robot class and provide two operations
+- GUI.java: a class that provide the user interface and uses the previous class.
+
+There is also a file zip that contains both source, compiled files.
+Moreover there is a jar file to execute directly the program.
