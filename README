@@ -1,4 +1,4 @@
-I used this an (useless) application to cheat on flash games like "ClickChallenge" :-)
+I used this an (useless) application to cheat in flash games like "ClickChallenge" :-)
 However it can be adapted to interact in other ways with the computer, like simulate
 a user that press keyboard buttons or move the mouse and click in a particular position.
 To allow this I used the simple Java Robot class.
